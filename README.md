@@ -7,7 +7,7 @@ The challenges I faced during this project that I would like to be able to tackl
 •	Web scraping data from idmb website in order to be able to fill the missing values in the datasets.
 •	Being able to handle the outliers in the datasets.
 
-How to install and run the project
+How to install and run the project:
 The steps to be taken in order to install and run the project in one’s terminal:
 	One forks the project  into their own repository.
 	One open their terminal and navigates to the desired folder they want their work to be stored.
@@ -15,8 +15,8 @@ The steps to be taken in order to install and run the project in one’s termina
 	When you have copied the url u go back to terminal and writes ‘git clone + the pasted url’
 	Then one presses enter and the project will be stored in their computer.
 
-How to use the project 
+How to use the project:
 The project has been well detailed thus only one should just be careful in changing variables due to some functions already set which will bring errors.
 
-Credits
+Credits:
 I want to thank free code camp for providing materials and tutorials that I followed as to come up with the some of the data analysis that is within the project.
